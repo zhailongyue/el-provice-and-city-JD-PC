@@ -1,10 +1,14 @@
 # provice
 
 > A Vue.js project
+> 基于 vue elementUi 的省市区街道的 Pc 版
+> 1.git clone https://github.com/zhailongyue/el-provice-and-city-JD-PC.git 2.进入下载文件夹
+> 3.npm install
+> 4.npm run dev 就可以看到啦 5.对于 npm 还不是很熟悉，就自己 copy 组件到你的项目里面吧（这种用的不是很频繁的组件，不建议全局注册）
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
